@@ -3,7 +3,7 @@
 ## Vista previa
 ![](https://ik.imagekit.io/demoxd/ezgif.com-video-to-gif_pS8HLZsW5.gif?tr=w-1080,h-566,fo-auto)
 
-![Minimal Navbar]=https://brandovidal.github.io/minimal-navbar
+[Minimal Navbar]=https://brandovidal.github.io/minimal-navbar
 ## Link Directo
 Ver [Minimal Navbar]
 

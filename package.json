@@ -1,0 +1,15 @@
+{
+  "name": "minimal-navbar",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/brandovidal/minimal-navbar.git",
+  "author": "Brando vidal",
+  "license": "yes",
+  "private": false,
+  "scripts": {
+    "dev": "lite-server index.html"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
